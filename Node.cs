@@ -16,7 +16,7 @@ namespace LinkedListOperation
         {
             data = d;
             next = null;
-     
         }
+
     }
 }
