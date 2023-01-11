@@ -6,10 +6,10 @@ namespace LinkedListOperation
 {
     class Node
     {
+
         //creating Node
         public int data;
         public Node next;
-
 
 
         public Node(int d)
@@ -17,6 +17,5 @@ namespace LinkedListOperation
             data = d;
             next = null;
         }
-
     }
 }
