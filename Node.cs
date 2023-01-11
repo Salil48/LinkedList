@@ -6,7 +6,7 @@ namespace LinkedListOperation
 {
     class Node
     {
-        //creating Node
+        //creating_Node
         public int data;
         public Node next;
 
