@@ -42,13 +42,17 @@
                     obj.DeleteFirst();
                     obj.Display();
                     break;
+                case 5:
+                    obj.InsertLast(56);
+                    obj.InsertLast(30);
+                    obj.InsertLast(70);
+                    obj.DeleteLast();
+                    obj.Display();
+                    break;
 
 
             }
             Console.ReadLine();
         }
     }
-
-
-
 }
