@@ -6,8 +6,11 @@ namespace LinkedListOperation
 {
     class Node
     {
+        //creatingNode
         public int data;
         public Node next;
+
+
 
         public Node(int d)
         {
