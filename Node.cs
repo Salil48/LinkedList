@@ -4,9 +4,10 @@ using System.Text;
 
 namespace LinkedListOperation
 {
+
     class Node
     {
-        //creating Node
+        
         public int data;
         public Node next;
 
