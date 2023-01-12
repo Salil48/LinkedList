@@ -9,7 +9,7 @@ namespace LinkedListOperation
     {
         //Creating a head node to point the first element
         public Node head;
-        //Creating a method to insert last 
+        //Creating a method toinsert last 
 
         public void InsertLast(int new_data)
         {
